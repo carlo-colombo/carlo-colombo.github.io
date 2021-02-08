@@ -188,9 +188,6 @@ a {
 a:hover {
   color: #2ca831;
 }
-.article-entry a {
-  text-decoration: underline;
-}
 html,
 body {
   position: absolute;
